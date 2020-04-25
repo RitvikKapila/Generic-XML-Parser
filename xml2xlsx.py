@@ -2,7 +2,7 @@
 # coding: utf-8
 
 """
-Authors: Ritvik Kapila
+Author: Ritvik Kapila
 """
 
 import pandas as pd 
