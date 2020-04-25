@@ -1,9 +1,8 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-
 """
-Authors: Ritvik Kapila, Gauri Gupta
+Authors: Ritvik Kapila
 """
 
 import pandas as pd 
